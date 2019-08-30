@@ -1,7 +1,7 @@
 # DataVizPortfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
-# About
+# About Me
 Hi all, I’m Matt (pronouns: he, him).  I am in my second year at Heinz studying Public Policy and Data Analytics.  I’m fascinated by the intersection of data and policy and have done a lot of work to leverage data driven decision making to allow communities and organizations to accomplish more.  My recent experience has exposed me to multiple sectors (NGO – disaster relief work, local government - economic development, Federal government – telecommunications policy).  In each role I have seen firsthand how the right data, in the right hands at the right time can have tremendous impact on policy, operational decisions, and ultimately outcomes.  Conversely, I’ve seen how flawed or missing data can lead to suboptimal outcomes.  Post Heinz I hope to pursue a career applying my quantitative skills to furthering the public good.   
 
 # What I hope to learn
