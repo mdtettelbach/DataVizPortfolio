@@ -9,4 +9,5 @@ I am motivated to take this course to gain additional visualization tools and te
 
 # Portfolio
 
-[this is my page](https://mdtettelbach.github.io/DataVizPortfolio/titanic)
+[Experiementing with RAW titanic visualization](https://mdtettelbach.github.io/DataVizPortfolio/titanic)
+[Week 2 OECD Visualization](/dataviz2.md)
