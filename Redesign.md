@@ -7,4 +7,4 @@ With the above in mind, I began wireframing a potential redesign that inverted t
 
 With a design idea conceptualized, I extracted the data and redesigned this in Tableau.  Color is now based simply on state approval rating with a tooltip also displaying the disapproval percent for each state.  The color scheme was flipped so that the darker red represented stronger Trump states and anything where he did not have a majority of approval was rendered in gradients of gray.  I removed all other map clutter and added a more informative title to complete the redesign of this map.  
 
-## [See the redesigned graph here](https://public.tableau.com/views/TrumpApprovalRating_15688160890650/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
+## [See the redesigned graph here](https://public.tableau.com/views/TrumpApprovalRating_15688160890650/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link) 
