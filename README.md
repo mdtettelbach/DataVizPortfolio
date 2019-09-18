@@ -16,3 +16,4 @@ I am motivated to take this course to gain additional visualization tools and te
 script type='text/javascript' 
 
 ### [Visualization Critique and Redesign](https://mdtettelbach.github.io/DataVizPortfolio/Redesign)
+### [Test](https://mdtettelbach.github.io/DataVizPortfolio/TableauTrump)
