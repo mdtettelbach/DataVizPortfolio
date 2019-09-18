@@ -13,4 +13,6 @@ I am motivated to take this course to gain additional visualization tools and te
 ### [Week 2 OECD Visualization](/OECDVIZ_week2.md)
 
 ##### Tableau OECD Visualization 
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1200px; height: 1665px;'><object class='tableauViz' width='1200' height='1665' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;mtettelbachportfolio' /><param name='name' value='OECD&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
+script type='text/javascript' 
+
+### [Visualization Critique and Redesign](https://mdtettelbach.github.io/DataVizPortfolio/Redesign)
