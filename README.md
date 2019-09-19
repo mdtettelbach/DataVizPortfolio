@@ -12,8 +12,6 @@ I am motivated to take this course to gain additional visualization tools and te
 ### [Experiementing with RAW titanic visualization](https://mdtettelbach.github.io/DataVizPortfolio/titanic)
 ### [Week 2 OECD Visualization](/OECDVIZ_week2.md)
 
-##### Tableau OECD Visualization 
-script type='text/javascript' 
 
 ### [Visualization Critique and Redesign](https://mdtettelbach.github.io/DataVizPortfolio/Redesign)
 
