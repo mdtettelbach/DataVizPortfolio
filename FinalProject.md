@@ -15,7 +15,7 @@ Click open with draw.io to view the sketch full size.
 
 
 ## Data 
-A variety of data sources will be used to tell a clear compelling narrative of the current financial conditions in the United States. 
+A variety of data sources will be used to tell a clear compelling narrative of the current financial conditions in the United States. The government data below will be used for call out statistics higlighting financial limitations and used to create visualization of time series data and inform future trends.   
 
 [Federal Reserve Report on the Economic Well-Being of US Households]( https://www.federalreserve.gov/publications/appendix-b-consumer-responses-to-survey-questions.htm)
 
