@@ -10,6 +10,7 @@ The project will open with a bold callout statistic ‘Over 40% of Americans cou
 ## Sketches 
 
 [Click here to view my story progression sketch](https://drive.google.com/file/d/14bzLWOLiHmJ26CgDavkqT4F5Si5UHSVn/view?usp=sharing
+
 Click open with draw.io to view the sketch full size.
 
 
