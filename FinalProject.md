@@ -11,8 +11,6 @@ The project will open with a bold callout statistic ‘Over 40% of Americans cou
 
 [Click here to view my story progression sketch](https://drive.google.com/file/d/1uWK4O_bypTyF-28xvB8eca0YlWpUS2Jg/view?usp=sharing)
 
-Click open with draw.io to view the sketch full size.
-
 
 ## Data 
 A variety of data sources will be used to tell a clear compelling narrative of the current financial conditions in the United States. The government data below will be used for call out statistics higlighting financial limitations and used to create visualization of time series data and inform future trends.   
