@@ -25,6 +25,7 @@ The visualizations showing macroeconomic trends such as long term interest compo
 
 ## Method and Medium 
 The project will be executed in Shorthand using a linear telescoping approach whereby the reader’s attention is captivated by bold callout statistics (How few consumers can afford an emergency expense, that the average American household has over $100,000 of debt) and then drill down into to deeper explanations and visualizations of what this data means and how it impacts both individuals and the larger macro economy.
+
 The design objective is to use text sparsely and instead use compelling images and visualizations to tell a captivating story that is broken up by bold text callouts. The story will progress by first framing a problem and then exploring the good and bad of interest, and then pivot to a quick history of how we got here and where indebtedness is projected to grow.  The story will end with a firm call to action to advocate for legislation aimed at capping interest as a means of improving financial footing for many Americans.  
 
 
