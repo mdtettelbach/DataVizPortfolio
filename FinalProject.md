@@ -13,9 +13,13 @@ The project will open with a bold callout statistic ‘Over 40% of Americans cou
 ## Data 
 A variety of data sources will be used to tell a clear compelling narrative of the current financial conditions in the United States. 
 [Federal Reserve Report on the Economic Well-Being of US Households]( https://www.federalreserve.gov/publications/appendix-b-consumer-responses-to-survey-questions.htm)
+
 [NY Fed – Center for Microeconomic Data]( https://www.newyorkfed.org/microeconomics/databank.html)
+
 [Survey of Consumer Finances – Federal Reserve]( https://www.federalreserve.gov/econres/scfindex.htm)
+
 [SIPP – Survey of Income and Program Participation – Census Bureau]( http://thedataweb.rm.census.gov/ftp/sipp_ftp.html)
+
 The visualizations showing macroeconomic trends such as long term interest compounding or money creation will be created in-house using established macroeconomic principals as the underly assumptions.  While these graphs are not built on an underlying dataset, the core assumptions used in creating them will be clearly cited.  
 
 ## Method and Medium 
