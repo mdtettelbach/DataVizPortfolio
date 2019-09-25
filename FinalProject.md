@@ -12,6 +12,7 @@ The project will open with a bold callout statistic ‘Over 40% of Americans cou
 
 ## Data 
 A variety of data sources will be used to tell a clear compelling narrative of the current financial conditions in the United States. 
+
 [Federal Reserve Report on the Economic Well-Being of US Households]( https://www.federalreserve.gov/publications/appendix-b-consumer-responses-to-survey-questions.htm)
 
 [NY Fed – Center for Microeconomic Data]( https://www.newyorkfed.org/microeconomics/databank.html)
