@@ -9,6 +9,7 @@ The project will open with a bold callout statistic ‘Over 40% of Americans cou
 
 ## Sketches 
 
+[Click here to view my story progression sketch](https://drive.google.com/file/d/14bzLWOLiHmJ26CgDavkqT4F5Si5UHSVn/view?usp=sharing)
 
 ## Data 
 A variety of data sources will be used to tell a clear compelling narrative of the current financial conditions in the United States. 
