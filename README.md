@@ -15,4 +15,6 @@ I am motivated to take this course to gain additional visualization tools and te
 
 ### [Visualization Critique and Redesign](https://mdtettelbach.github.io/DataVizPortfolio/Redesign)
 
-### [Final Project](/FinalProject.md)
+### [Final Project - Part 1](/FinalProject.md)
+
+### [Final Project - Part 2](/FinalProject2.md)
