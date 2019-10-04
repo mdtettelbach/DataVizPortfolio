@@ -1,9 +1,3 @@
-
-### [Mockup](https://docs.google.com/presentation/d/1UjZY-l_w5ytnGL9I7zQBENCk0J0zH1X6_kiaXdlXFRo/edit?usp=sharing)
-Initial mockup was created using open source graphs to seek out user feedback on how individuals respond to current presentations of financial information.  
-
-### [User Feedback](https://docs.google.com/document/d/1Qtyabh5ppwqUFPu_p0bgi2k5p77Gan1RKBCWVt6AIKw/edit?usp=sharing)
-
 ## Part 2  - Storyboard and User Research
 ### objective
 Having drafted the following [outline](https://drive.google.com/file/d/1uWK4O_bypTyF-28xvB8eca0YlWpUS2Jg/view?usp=sharing) I knew that I wanted to present a captivating story that probed some of the root causes of income inequality.  While there are a myriad of directions I could have taken this, I opted to focus on compound interest as it’s an easier topic to understand and relatable to anyone who has ever saved or borrowed before.  In addition, there is proposed legislation to cap interest rates that can be tied into a clear call to action.  
