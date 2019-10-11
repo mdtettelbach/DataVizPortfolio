@@ -18,3 +18,5 @@ I am motivated to take this course to gain additional visualization tools and te
 ### [Final Project - Part 1](/FinalProject.md)
 
 ### [Final Project - Part 2](/FinalProject2.md)
+
+### [Final Project - Part 3](/FinalProject3.md)
