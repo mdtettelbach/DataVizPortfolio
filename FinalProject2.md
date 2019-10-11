@@ -3,7 +3,7 @@
 Having drafted the following [storyboard](https://drive.google.com/file/d/1uWK4O_bypTyF-28xvB8eca0YlWpUS2Jg/view?usp=sharing) I knew that I wanted to present a captivating story that probed some of the root causes of income inequality.  While there are a myriad of directions I could have taken this, I opted to focus on compound interest as it’s an easier topic to understand and relatable to anyone who has ever saved or borrowed before.  In addition, there is proposed legislation to cap interest rates that can be tied into a clear call to action.  
 ### User Research
 I took a slightly different approach to this.  Rather than share my own initial sketches, I built a demo deck using existing graphs from leading organizations and experts in the field.  While all the graphs are flawed in one way or another, I was curious to hear what flaws my test group identified, so that I could have even more insight into creating more engaging visualizations. 
-[View the initial demo deck here]( https://docs.google.com/presentation/d/1UjZY-l_w5ytnGL9I7zQBENCk0J0zH1X6_kiaXdlXFRo/edit?usp=sharing)
+[View the initial demo deck here](https://docs.google.com/presentation/d/1UjZY-l_w5ytnGL9I7zQBENCk0J0zH1X6_kiaXdlXFRo/edit?usp=sharing)
 
 ### Research Protocol 
 A)	Target audience – wide general interest population.  I assume little previous technical knowledge or exposure to finance
@@ -64,7 +64,7 @@ k.	Slide 11 –  added side by side graph showing the difference in debt levels 
 
 l.	Slide 12 – provided links to share story as well as links to learn more. 
 
-### [See the revised demo deck here]( https://docs.google.com/presentation/d/1URoDDNNUkqWkGiTfZ6Fh4-TNiRD1alUM45TkumG_9yE/edit?usp=sharing)
+### [See the revised demo deck here](https://docs.google.com/presentation/d/1UjZY-l_w5ytnGL9I7zQBENCk0J0zH1X6_kiaXdlXFRo/edit?usp=sharing)
 
 All told the user research process was informative and provided valuable insight into how to strengthen and improve the narrative.  In discussion this in class tonight, I learned even more ideas into how I can tighten this up more and better keep the focus on the story.  As I make the final tweaks to my visualizations I will be sure to solicit outside feedback to ensure that they are as strong as possible as I work to render the demo deck inside of shorthand.  
 
